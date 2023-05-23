@@ -17,3 +17,10 @@ console.log(area);
 const numero = 45;
 const numero2 = '45';
 
+
+// convertendo valores
+
+let valorNumero = 25426;
+console.log(String(valorNumero))
+
+console.log(typeof(String(valorNumero)))
